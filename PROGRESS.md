@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **15 / 450 solved** · Day 2 / 90 · Next topic index: 5
+- Stats: **20 / 450 solved** · Day 3 / 90 · Next topic index: 10
 
 ## Topic rotation queue
 
@@ -31,3 +31,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | Day | Date | Topics | Files Added | Running Total |
 |-----|------|--------|--------------|----------------|
 | 2 | 2026-07-18 | Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues, Linked Lists | group_anagrams.py, container_with_most_water.py, max_sum_subarray_of_size_k.py, min_stack.py, linked_list_cycle_detection.py | 15 |
+| 3 | 2026-07-18 | Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking | search_in_rotated_sorted_array.py, validate_binary_search_tree.py, trie_prefix_search.py, kth_largest_element.py, subsets_backtracking.py | 20 |
