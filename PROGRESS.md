@@ -1,24 +1,18 @@
 # Progress Tracker
 
-
 This file is the source of truth for the daily DSA automation. Update it every time new problems are committed.
 
-
 ## Plan
-
 
 - Target: 450 problems total
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **10 / 450 solved** · Day 1 / 90 · Next topic index: 0
-
+- Stats: **15 / 450 solved** · Day 2 / 90 · Next topic index: 5
 
 ## Topic rotation queue
 
-
 Cycle through this list in order, 5 topics per day (wrap back to the top when the list is exhausted). Skip a topic for the day if it was already used earlier that day. Prefer variety over repeating the same topic two days running.
-
 
 1. Arrays & Hashing
 2. Two Pointers
@@ -31,3 +25,9 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 9. Heaps / Priority Queues
 10. Backtracking
 11. Graphs (BFS/DFS, topological sort)
+
+## Daily Log
+
+| Day | Date | Topics | Files Added | Running Total |
+|-----|------|--------|--------------|----------------|
+| 2 | 2026-07-18 | Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues, Linked Lists | group_anagrams.py, container_with_most_water.py, max_sum_subarray_of_size_k.py, min_stack.py, linked_list_cycle_detection.py | 15 |
