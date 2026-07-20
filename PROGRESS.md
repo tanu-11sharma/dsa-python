@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **25 / 450 solved** · Day 4 / 90 · Next topic index: 4
+- Stats: **30 / 450 solved** · Day 5 / 90 · Next topic index: 9
 
 ## Topic rotation queue
 
@@ -33,3 +33,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 2 | 2026-07-18 | Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues, Linked Lists | group_anagrams.py, container_with_most_water.py, max_sum_subarray_of_size_k.py, min_stack.py, linked_list_cycle_detection.py | 15 |
 | 3 | 2026-07-18 | Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking | search_in_rotated_sorted_array.py, validate_binary_search_tree.py, trie_prefix_search.py, kth_largest_element.py, subsets_backtracking.py | 20 |
 | 4 | 2026-07-18 | Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues | course_schedule_topological_sort.py, top_k_frequent_elements.py, three_sum.py, longest_repeating_character_replacement.py, daily_temperatures.py | 25 |
+| 5 | 2026-07-20 | Linked Lists, Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues | merge_two_sorted_linked_lists.py, find_peak_element.py, lowest_common_ancestor_bst.py, longest_common_prefix_trie.py, merge_k_sorted_lists.py | 30 |
