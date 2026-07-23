@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **45 / 450 solved** · Day 8 / 90 · Next topic index: 2
+- Stats: **50 / 450 solved** · Day 9 / 90 · Next topic index: 7
 
 ## Topic rotation queue
 
@@ -37,3 +37,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 6 | 2026-07-20 | Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers, Sliding Window | permutations_of_array.py, number_of_islands.py, longest_consecutive_sequence.py, valid_palindrome_two_pointers.py, longest_substring_without_repeating_characters.py | 35 |
 | 7 | 2026-07-21 | Stacks & Queues, Linked Lists, Binary Search, Trees (traversals, BST), Tries | evaluate_reverse_polish_notation.py, remove_nth_node_from_end.py, koko_eating_bananas.py, binary_tree_level_order_traversal.py, replace_words_with_trie.py | 40 |
 | 8 | 2026-07-22 | Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers | k_closest_points_to_origin.py, combination_sum.py, clone_graph.py, product_of_array_except_self.py, trapping_rain_water.py | 45 |
+| 9 | 2026-07-23 | Sliding Window, Stacks & Queues, Linked Lists, Binary Search, Trees (traversals, BST) | minimum_window_substring.py, largest_rectangle_in_histogram.py, add_two_numbers_linked_list.py, search_2d_matrix.py, diameter_of_binary_tree.py | 50 |
