@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **65 / 450 solved** · Day 12 / 90 · Next topic index: 0
+- Stats: **70 / 450 solved** · Day 13 / 90 · Next topic index: 5
 
 ## Topic rotation queue
 
@@ -41,3 +41,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 10 | 2026-07-26 | Tries, Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing | maximum_xor_two_numbers_trie.py, find_median_from_data_stream.py, n_queens.py, network_delay_time_dijkstra.py, subarray_sum_equals_k.py | 55 |
 | 11 | 2026-07-27 | Two Pointers, Sliding Window, Stacks & Queues, Linked Lists, Binary Search | sort_colors_dutch_flag.py, max_consecutive_ones_with_k_flips.py, next_greater_element.py, reorder_list.py, find_minimum_in_rotated_sorted_array.py | 60 |
 | 12 | 2026-07-30 | Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort) | serialize_deserialize_binary_tree.py, autocomplete_suggestions_trie.py, reorganize_string_heap.py, palindrome_partitioning.py, word_ladder_shortest_transformation.py | 65 |
+| 13 | 2026-07-30 | Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues, Linked Lists | contains_nearby_duplicate.py, merge_sorted_array_in_place.py, permutation_in_string.py, decode_string_with_stack.py, copy_list_with_random_pointer.py | 70 |
