@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **70 / 450 solved** · Day 13 / 90 · Next topic index: 5
+- Stats: **75 / 450 solved** · Day 14 / 90 · Next topic index: 10
 
 ## Topic rotation queue
 
@@ -42,3 +42,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 11 | 2026-07-27 | Two Pointers, Sliding Window, Stacks & Queues, Linked Lists, Binary Search | sort_colors_dutch_flag.py, max_consecutive_ones_with_k_flips.py, next_greater_element.py, reorder_list.py, find_minimum_in_rotated_sorted_array.py | 60 |
 | 12 | 2026-07-30 | Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort) | serialize_deserialize_binary_tree.py, autocomplete_suggestions_trie.py, reorganize_string_heap.py, palindrome_partitioning.py, word_ladder_shortest_transformation.py | 65 |
 | 13 | 2026-07-30 | Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues, Linked Lists | contains_nearby_duplicate.py, merge_sorted_array_in_place.py, permutation_in_string.py, decode_string_with_stack.py, copy_list_with_random_pointer.py | 70 |
+| 14 | 2026-07-31 | Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking | split_array_largest_sum.py, binary_tree_right_side_view.py, word_search_grid_trie.py, task_scheduler_cooldown_heap.py, letter_combinations_phone_keypad.py | 75 |
