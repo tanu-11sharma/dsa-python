@@ -4,7 +4,7 @@ Data Structures & Algorithms practice solutions in Python — one problem per fi
 
 ## Progress
 
-**75 / 450 problems solved** · Day 14 of 90 · Started 2026-07-18
+**80 / 450 problems solved** · Day 15 of 90 · Started 2026-07-18
 
 Solving 5 new problems a day, every day, until all 450 are done. See [PROGRESS.md](./PROGRESS.md) for the full daily log and topic rotation.
 
