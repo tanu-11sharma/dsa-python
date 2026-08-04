@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **75 / 450 solved** · Day 14 / 90 · Next topic index: 10
+- Stats: **80 / 450 solved** · Day 15 / 90 · Next topic index: 4
 
 ## Topic rotation queue
 
@@ -43,3 +43,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 12 | 2026-07-30 | Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort) | serialize_deserialize_binary_tree.py, autocomplete_suggestions_trie.py, reorganize_string_heap.py, palindrome_partitioning.py, word_ladder_shortest_transformation.py | 65 |
 | 13 | 2026-07-30 | Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues, Linked Lists | contains_nearby_duplicate.py, merge_sorted_array_in_place.py, permutation_in_string.py, decode_string_with_stack.py, copy_list_with_random_pointer.py | 70 |
 | 14 | 2026-07-31 | Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking | split_array_largest_sum.py, binary_tree_right_side_view.py, word_search_grid_trie.py, task_scheduler_cooldown_heap.py, letter_combinations_phone_keypad.py | 75 |
+| 15 | 2026-08-04 | Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues | rotting_oranges_bfs.py, valid_sudoku_board.py, remove_duplicates_from_sorted_array.py, sliding_window_maximum.py, implement_queue_using_stacks.py | 80 |
