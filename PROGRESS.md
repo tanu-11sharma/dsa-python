@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **93 / 450 solved** · Day 17 / 90 · Next topic index: 3
+- Stats: **98 / 450 solved** · Day 18 / 90 · Next topic index: 8
 
 > Note (2026-08-17): two runs of the daily automation executed concurrently on this date, each committing its own set of solutions. Day 17 therefore added 8 files rather than 5, and the row below has been reconciled against the actual repo contents. An earlier note claiming is_graph_bipartite.py came from outside the automation was mistaken and has been removed. If this recurs, check for a duplicate scheduled task.
 
@@ -48,3 +48,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 15 | 2026-08-04 | Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues | rotting_oranges_bfs.py, valid_sudoku_board.py, remove_duplicates_from_sorted_array.py, sliding_window_maximum.py, implement_queue_using_stacks.py | 80 |
 | 16 | 2026-08-05 | Linked Lists, Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues | rotate_linked_list_right.py, first_and_last_position_sorted_array.py, balanced_binary_tree_check.py, wildcard_word_dictionary_trie.py, last_stone_weight_heap.py | 85 |
 | 17 | 2026-08-17 | Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers, Sliding Window | generate_balanced_parentheses.py, is_graph_bipartite.py, first_missing_positive.py, two_sum_sorted_array.py, alien_dictionary_topological_order.py, encode_decode_strings_list.py, two_sum_sorted_two_pointers.py, minimum_size_subarray_sum.py | 93 |
+| 18 | 2026-08-20 | Stacks & Queues, Linked Lists, Binary Search, Trees (traversals, BST), Tries | asteroid_collision_stack.py, palindrome_linked_list.py, median_of_two_sorted_arrays.py, count_good_nodes_in_binary_tree.py, longest_word_built_from_others_trie.py | 98 |
