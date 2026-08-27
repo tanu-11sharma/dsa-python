@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **113 / 450 solved** · Day 21 / 90 · Next topic index: 1
+- Stats: **118 / 450 solved** · Day 22 / 90 · Next topic index: 6
 
 > Note (2026-08-17): two runs of the daily automation executed concurrently on this date, each committing its own set of solutions. Day 17 therefore added 8 files rather than 5, and the row below has been reconciled against the actual repo contents. An earlier note claiming is_graph_bipartite.py came from outside the automation was mistaken and has been removed. If this recurs, check for a duplicate scheduled task.
 
@@ -54,3 +54,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 19 | 2026-08-20 | Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers | minimum_meeting_rooms_heap.py, sudoku_solver_backtracking.py, min_cost_connect_points_prim.py, find_all_duplicates_in_array.py, three_sum_closest.py | 103 |
 | 20 | 2026-08-25 | Sliding Window, Stacks & Queues, Linked Lists, Binary Search, Trees (traversals, BST) | fruit_into_baskets.py, monotonic_stack_next_smaller.py, intersection_of_two_linked_lists.py, capacity_to_ship_packages_binary_search.py, kth_smallest_element_in_bst.py | 108 |
 | 21 | 2026-08-26 | Tries, Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing | trie_prefix_count_frequency.py, ugly_numbers_heap.py, restore_ip_addresses_backtracking.py, number_of_provinces_union_find.py, longest_subarray_with_sum_k.py | 113 |
+| 22 | 2026-08-27 | Two Pointers, Sliding Window, Stacks & Queues, Linked Lists, Binary Search | boats_to_save_people.py, find_all_anagrams_in_string.py, remove_k_digits_to_form_smallest_number.py, swap_nodes_in_pairs.py, single_element_in_sorted_array.py | 118 |
