@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **138 / 450 solved** · Day 26 / 90 · Next topic index: 4
+- Stats: **143 / 450 solved** · Day 27 / 90 · Next topic index: 9
 
 > Note (2026-08-17): two runs of the daily automation executed concurrently on this date, each committing its own set of solutions. Day 17 therefore added 8 files rather than 5, and the row below has been reconciled against the actual repo contents. An earlier note claiming is_graph_bipartite.py came from outside the automation was mistaken and has been removed. If this recurs, check for a duplicate scheduled task.
 
@@ -59,3 +59,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 24 | 2026-09-03 | Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues, Linked Lists | find_disappeared_numbers.py, valid_triangle_number.py, count_nice_subarrays.py, simplify_path_stack.py, odd_even_linked_list.py | 128 |
 | 25 | 2026-09-04 | Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues, Backtracking | kth_missing_positive_number.py, binary_tree_maximum_path_sum.py, word_break_using_trie.py, connect_ropes_minimum_cost_heap.py, combination_sum_ii_backtracking.py | 133 |
 | 26 | 2026-09-07 | Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers, Sliding Window, Stacks & Queues | shortest_bridge_between_islands.py, longest_subarray_equal_zeros_ones.py, three_sum_smaller.py, max_points_from_cards_sliding_window.py, remove_adjacent_duplicates_stack.py | 138 |
+| 27 | 2026-09-09 | Linked Lists, Binary Search, Trees (traversals, BST), Tries, Heaps / Priority Queues | reverse_nodes_in_k_group.py, aggressive_cows_binary_search.py, maximum_width_of_binary_tree.py, ip_routing_longest_prefix_match_trie.py, sliding_window_median_two_heaps.py | 143 |
