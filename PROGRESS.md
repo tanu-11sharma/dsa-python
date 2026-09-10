@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **148 / 450 solved** Â· Day 28 / 90 Â· Next topic index: 3
+- Stats: **148 / 450 solved** · Day 28 / 90 · Next topic index: 3
 
 > Note (2026-08-17): two runs of the daily automation executed concurrently on this date, each committing its own set of solutions. Day 17 therefore added 8 files rather than 5, and the row below has been reconciled against the actual repo contents. An earlier note claiming is_graph_bipartite.py came from outside the automation was mistaken and has been removed. If this recurs, check for a duplicate scheduled task.
 
