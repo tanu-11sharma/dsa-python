@@ -8,7 +8,7 @@ This file is the source of truth for the daily DSA automation. Update it every t
 - Pace: 5 new problems/day, every day
 - Duration: 90 days
 - Started: 2026-07-18 (Day 1, seeded with 10 problems)
-- Stats: **158 / 450 solved** · Day 30 / 90 · Next topic index: 2
+- Stats: **163 / 450 solved** · Day 31 / 90 · Next topic index: 7
 
 > Note (2026-08-17): two runs of the daily automation executed concurrently on this date, each committing its own set of solutions. Day 17 therefore added 8 files rather than 5, and the row below has been reconciled against the actual repo contents. An earlier note claiming is_graph_bipartite.py came from outside the automation was mistaken and has been removed. If this recurs, check for a duplicate scheduled task.
 
@@ -63,3 +63,4 @@ Cycle through this list in order, 5 topics per day (wrap back to the top when th
 | 28 | 2026-09-10 | Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers, Sliding Window | expression_add_operators.py, accounts_merge_union_find.py, subarray_sums_divisible_by_k.py, sort_array_by_parity_two_pointers.py, longest_substring_with_k_distinct_characters.py | 148 |
 | 29 | 2026-09-11 | Stacks & Queues, Linked Lists, Binary Search, Trees (traversals, BST), Tries | basic_calculator_stack.py, middle_of_linked_list.py, peak_index_in_mountain_array.py, construct_binary_tree_from_preorder_inorder.py, concatenated_words_trie.py | 153 |
 | 30 | 2026-09-12 | Heaps / Priority Queues, Backtracking, Graphs (BFS/DFS, topological sort), Arrays & Hashing, Two Pointers | smallest_range_covering_elements_heap.py, subsets_with_duplicates_backtracking.py, cheapest_flights_within_k_stops.py, maximum_subarray_kadane.py, remove_duplicates_from_sorted_array_ii.py | 158 |
+| 31 | 2026-09-13 | Sliding Window, Stacks & Queues, Linked Lists, Binary Search, Trees (traversals, BST) | subarray_product_less_than_k.py, implement_stack_using_queues.py, flatten_multilevel_doubly_linked_list.py, find_smallest_divisor_given_threshold.py, binary_tree_vertical_order_traversal.py | 163 |
